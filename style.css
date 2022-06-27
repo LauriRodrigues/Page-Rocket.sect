@@ -64,6 +64,10 @@ span {
   font-weight: bold;
 }
 
+main p {
+  color: #C2C2C2;
+}
+
 #text {
   width: 605px;
 }
